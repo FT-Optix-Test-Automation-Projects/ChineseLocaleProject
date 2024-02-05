@@ -9,8 +9,9 @@ Children:
   Value: 
    {
     "Type": 12,
-    "Dimensions": [1,2],
+    "Dimensions": [2,3],
     "Body": [
-     "","en-US"
+     "","en-US","zh-CN",
+     "controller","Controller","控制器"
     ]
    }
